@@ -11,3 +11,8 @@ git push -u origin main
 git remote add origin https://github.com/sutha1995/newpython.git
 git branch -M main
 git push -u origin main
+
+- git remote add origin https://github.com/sutha1995/newpython.git
+- git branch -M main
++ git add .
++ git commit -m "update message"

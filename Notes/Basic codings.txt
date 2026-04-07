@@ -1,0 +1,3 @@
+#Change in directory
+cd <folder name> #eg. cd Py
+

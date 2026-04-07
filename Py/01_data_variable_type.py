@@ -18,3 +18,8 @@ print(x / y)  #Division
 print(x // y) #Floor Division (Round off number, no decimals)
 print(x % y)  #Modulus
 print(x ** y) #Exponentiation (10^3)
+
+#Exercise 3
+Celcius = 25
+Fahrenheit = (Celcius * 9/5) + 32
+print(Fahrenheit)

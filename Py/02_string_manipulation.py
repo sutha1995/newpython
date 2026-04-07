@@ -37,3 +37,14 @@ message_3 = "My name is %s and I am %d years old." % (name, age)    #%-formattin
 print(message_1)
 print(message_2)
 print(message_3)
+
+#Exercise 5
+text = "Python is a powerful programming language. It's easy to learn and versatile!"
+
+words = text.split()
+characters = len(text)
+sentence_count = text.count('.') + text.count('!') + text.count('?')
+
+print(f"Word count: {len(words)}")
+print(f"Character count: {characters}")
+print(f"Sentence count: {sentence_count}")

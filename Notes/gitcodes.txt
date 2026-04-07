@@ -1,0 +1,13 @@
+#For creating new repository
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sutha1995/newpython.git
+git push -u origin main
+
+
+#For updating new files in the repository
+git remote add origin https://github.com/sutha1995/newpython.git
+git branch -M main
+git push -u origin main

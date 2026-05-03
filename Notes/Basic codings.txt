@@ -1,3 +1,23 @@
 #Change in directory
 cd <folder name> #eg. cd Py
 
+#For access purposes for venv folder
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+For Fast API command
+uvicorn file_name:app // --reload will be intensive for the CPU
+
+
+streamlit run file_name.py
+
+
+netstat -an | grep LISTEN
+
+Resend for notification sending for free
+
+3D Imaging and Analysis
+Audio or Lite
+
+Coding School
+https://codoxcoding.com/courses/scratch-advanced
+
